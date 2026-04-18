@@ -34,7 +34,7 @@ A mobile-first web application for finding and hiring local contractors in the P
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/swiftly-contractor-finder.git
+git clone https://github.com/jc-sh4llow/swiftly-contractor-finder.git
 cd swiftly-contractor-finder
 ```
 
